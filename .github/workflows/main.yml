@@ -1,8 +1,8 @@
 name: Deploy Hugo site to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.124.1'   # Version de Hugo compatible avec Hugo Blox
-
+  WC_HUGO_VERSION: '0.140.2'
+  
 on:
   # Build à chaque push sur main
   push:
