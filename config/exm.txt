@@ -1,0 +1,59 @@
+# Languages
+# Create a section for each of your site's languages.
+# Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language: English
+en:
+  languageCode: en-us
+  languageName: English
+  title: "Khalil Bachiri"
+  params:
+    description: "Khalil Bachiri PhD Student in Data Science and Machien Learning."
+  menu:
+    main:
+      - name: "Home"
+        url: "/#about"
+        weight: 1
+      - name: "Publications"
+        url: "/#publications"
+        weight: 2
+      - name: "Research Projects"
+        url: "/#projects"
+        weight: 3
+      - name: "Teaching"
+        url: "/#teaching"
+        weight: 4
+      - name: "Experience"
+        url: "/#experience"
+        weight: 5
+      - name: "Contact"
+        url: "/#contact"
+        weight: 6
+
+# Optional second language: French
+fr:
+  languageCode: fr
+  languageName: Français
+  title: "Khalil Bachiri"
+  params:
+    description: "Khalil Bachiri PhD Student en Science des Données et Machine Learning"
+  menu:
+    main:
+      - name: "À propos"
+        url: "/#about"
+        weight: 1
+      - name: "Publications"
+        url: "/#publications"
+        weight: 2
+      - name: "Projets de Recherche"
+        url: "/#projects"
+        weight: 3
+      - name: "Enseignement"
+        url: "/#teaching"
+        weight: 4
+      - name: "Expérience"
+        url: "/#experience"
+        weight: 5
+      - name: "Contact"
+        url: "/#contact"
+        weight: 6

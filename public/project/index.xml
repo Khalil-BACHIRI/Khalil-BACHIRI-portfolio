@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Khalil Bachiri</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Modélisation et Optimisation des Stations de Recharge pour Véhicules Électriques</title>
+      <link>http://localhost:1313/project/project-1/ev-charging-optimization/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/project-1/ev-charging-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification des Influenceurs : Multi-View Graph Embedding et Clustering Contrastif</title>
+      <link>http://localhost:1313/project/project-3/multi-view-graph-clustering/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
+      <guid>http://localhost:1313/project/project-3/multi-view-graph-clustering/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Optimisation de la Mobilité Électrique en Ville Intelligente</title>
+      <link>http://localhost:1313/project/project-2/smart-city-mobility-optimization/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      <guid>http://localhost:1313/project/project-2/smart-city-mobility-optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

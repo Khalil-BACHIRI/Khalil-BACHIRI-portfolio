@@ -1,0 +1,4 @@
+/* Masquer les dates dans les articles */
+.article .article-metadata time {
+    display: none;
+}

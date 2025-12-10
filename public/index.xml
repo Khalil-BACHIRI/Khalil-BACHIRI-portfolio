@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khalil Bachiri</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Khalil Bachiri</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Khalil Bachiri</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Master 2 IISC: Text Quality and Visualization</title>
+      <link>http://localhost:1313/teaching/m2-qd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/m2-qd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycle d&#39;Ing 1 INFO: Projet Génie Logiciel</title>
+      <link>http://localhost:1313/teaching/ing-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/ing-info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L3 INFO: Analyse de Données et Apprentissage</title>
+      <link>http://localhost:1313/teaching/l3-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/l3-info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L3 INFO: Intelligence Artificielle</title>
+      <link>http://localhost:1313/teaching/l3-tp-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/l3-tp-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L2 INFO: Pré traitement de données en Python</title>
+      <link>http://localhost:1313/teaching/l2-info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/l2-info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L2 INFO: Outils Mathématiques pour l&#39;Informatique</title>
+      <link>http://localhost:1313/teaching/l2-outils-math/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/l2-outils-math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cycle Pré-ing 1 &amp; 2 Mathématiques et informatique: Programmation Structurée en Langage C</title>
+      <link>http://localhost:1313/teaching/pre-ing1-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/pre-ing1-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Subgraph Feature Extraction for Explainable Multi-Modal Learning</title>
+      <link>http://localhost:1313/publication/conference-paper/paper-3/2024-adaptive-subgraph-feature-extraction/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/paper-3/2024-adaptive-subgraph-feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Selection of Electric Vehicle Charging Stations Using Deep Reinforcement Learning</title>
+      <link>http://localhost:1313/publication/conference-paper/paper-2/2024-dynamic-ev-selection/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/paper-2/2024-dynamic-ev-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Clustering Using Sparse Non-Negative Matrix Factorization for Recommendation Systems</title>
+      <link>http://localhost:1313/publication/conference-paper/paper-1/2023-multi-view-clustering/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/paper-1/2023-multi-view-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-agent DDPG Based Electric Vehicles Charging Station Recommendation</title>
+      <link>http://localhost:1313/publication/journal-article/2023-multi-agent-ddpg/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/2023-multi-agent-ddpg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Graph Learning and Sequential Modeling for Video Recommendation</title>
+      <link>http://localhost:1313/publication/conference-paper/paper-4/2025-ijcnn/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/paper-4/2025-ijcnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modélisation et Optimisation des Stations de Recharge pour Véhicules Électriques</title>
+      <link>http://localhost:1313/project/project-1/ev-charging-optimization/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/project-1/ev-charging-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification des Influenceurs : Multi-View Graph Embedding et Clustering Contrastif</title>
+      <link>http://localhost:1313/project/project-3/multi-view-graph-clustering/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
+      <guid>http://localhost:1313/project/project-3/multi-view-graph-clustering/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Optimisation de la Mobilité Électrique en Ville Intelligente</title>
+      <link>http://localhost:1313/project/project-2/smart-city-mobility-optimization/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate>
+      <guid>http://localhost:1313/project/project-2/smart-city-mobility-optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

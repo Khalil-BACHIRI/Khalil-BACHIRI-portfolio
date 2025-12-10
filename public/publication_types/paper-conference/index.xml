@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Khalil Bachiri</title>
+    <link>http://localhost:1313/publication_types/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Paper-Conference</title>
+      <link>http://localhost:1313/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Subgraph Feature Extraction for Explainable Multi-Modal Learning</title>
+      <link>http://localhost:1313/publication/conference-paper/paper-3/2024-adaptive-subgraph-feature-extraction/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/paper-3/2024-adaptive-subgraph-feature-extraction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Selection of Electric Vehicle Charging Stations Using Deep Reinforcement Learning</title>
+      <link>http://localhost:1313/publication/conference-paper/paper-2/2024-dynamic-ev-selection/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/paper-2/2024-dynamic-ev-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-View Clustering Using Sparse Non-Negative Matrix Factorization for Recommendation Systems</title>
+      <link>http://localhost:1313/publication/conference-paper/paper-1/2023-multi-view-clustering/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/paper-1/2023-multi-view-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Graph Learning and Sequential Modeling for Video Recommendation</title>
+      <link>http://localhost:1313/publication/conference-paper/paper-4/2025-ijcnn/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/paper-4/2025-ijcnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+{{/* Custom item template to remove date display */}}
+<article class="article">
+  {{ if .Params.image }}
+    <div class="article-image">
+      <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+    </div>
+  {{ end }}
+
+  <div class="article-content">
+    <h3 class="article-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+
+    {{ with .Params.authors }}
+      <div class="article-authors">
+        {{ range . }}
+          <span>{{ . }}</span>{{ if not (eq (add 1 $.Params.authors | len) (add (index $) 1)) }}, {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+
+    {{ with .Params.summary }}
+      <p>{{ . }}</p>
+    {{ end }}
+    
+    {{/* Remove the date section here — was causing "121 Dec 1010" display */}}
+    {{/* 
+    {{ if .Date }}
+      <div class="text-sm">{{ .Date | time.Format "2 Jan 2006" }}</div>
+    {{ end }}
+    */}}
+  </div>
+</article>

@@ -5,26 +5,35 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  mode: system  # System matches the user's OS setting (light/dark mode)
+  color: blue   # Customize the primary color to fit your branding
+
+assets:
+  css:
+    - css/custom.css
+
 
 # SEO
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    org_name: 'Khalil Bachiri'
+    description: 'Khalil Bachiri, PhD Student in Data Science and Machine Learning.'
+    twitter: 'khalilbachiri'  # Your Twitter username without '@'
+    linkedin: 'linkedin.com/in/khalil-bachiri-690726200'
+    
   analytics:
-    google_analytics: ''
+    google_analytics: 'YOUR-GOOGLE-ANALYTICS-ID'  # Add if you want to track site visitors
     baidu_tongji: ''
     plausible: ''
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
-    baidu: ''
+    google: ''  # Add your Google site verification code here
+    baidu: ''   # Add your Baidu site verification code here
+# Avatar/Profile Image
+
 
 # Site header
 header:
@@ -35,26 +44,62 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Khalil Bachiri"  # Your name displayed in the navbar
+    social:
+      - icon: "graduation-cap"
+        icon_pack: "fas"
+        url: "https://scholar.google.com/citations?user=Bgd_tsAAAAAJ&hl=fr"
+        name: "Google Scholar"
+      - icon: "linkedin"
+        icon_pack: "fab"
+        url: "linkedin.com/in/khalil-bachiri-690726200"
+        name: "LinkedIn"
+      - icon: "github"
+        icon_pack: "fab"
+        url: "https://github.com/Khalil-BACHIRI"
+        name: "GitHub"
+      - icon: "database"
+        icon_pack: "fas"
+        url: "https://dblp.org/pid/YOUR_DBLP_ID"
+        name: "DBLP"
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Khalil Bachiri. All rights reserved.'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
-
+  social:
+    - icon: "graduation-cap"
+      icon_pack: "fas"
+      url: "https://scholar.google.com/citations?user=Bgd_tsAAAAAJ&hl=fr"
+      name: "Google Scholar"
+    - icon: "linkedin"
+      icon_pack: "fab"
+      url: "linkedin.com/in/khalil-bachiri-690726200"
+      name: "LinkedIn"
+    - icon: "github"
+      icon_pack: "fab"
+      url: "https://github.com/Khalil-BACHIRI"
+      name: "GitHub"
+    - icon: "database"
+      icon_pack: "fas"
+      url: "https://dblp.org/pid/YOUR_DBLP_ID"
+      name: "DBLP"
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: '31 Dec 2024'  # Customize the date format (e.g., "31 Dec 2024")
+  time_format: '05:04'       # 24-hour time format
 
 # Site features
 features:
   math:
-    enable: false
+    enable: true  # Enable math rendering for LaTeX equations if needed
   privacy_pack:
+    enable: true  # Enable privacy features for GDPR compliance
+
+  pagination:
     enable: false

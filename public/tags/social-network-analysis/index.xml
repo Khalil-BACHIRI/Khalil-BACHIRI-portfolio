@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Network Analysis | Khalil Bachiri</title>
+    <link>http://localhost:1313/tags/social-network-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/social-network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Network Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-gb</language><lastBuildDate>Thu, 01 Jan 1970 01:33:43 +0100</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Social Network Analysis</title>
+      <link>http://localhost:1313/tags/social-network-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Identification des Influenceurs : Multi-View Graph Embedding et Clustering Contrastif</title>
+      <link>http://localhost:1313/project/project-3/multi-view-graph-clustering/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate>
+      <guid>http://localhost:1313/project/project-3/multi-view-graph-clustering/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
